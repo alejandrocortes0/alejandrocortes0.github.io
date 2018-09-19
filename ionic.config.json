@@ -1,0 +1,7 @@
+{
+  "name": "practicagit",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
